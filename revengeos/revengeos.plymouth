@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Revenge OS
+Description=Reveng OS plymouth theme by Karl Schneider, originally modified from Dark Mint theme by Josep Sayol
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/revengeos
+ScriptFile=/usr/share/plymouth/themes/revengeos/revengeos.script
